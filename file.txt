@@ -4,3 +4,5 @@ Line to check branch function.
 Edit in branch
 1
 2
+3
+4
